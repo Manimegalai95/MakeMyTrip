@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-27T16:51:36Z" name="Suite" finished-at="2023-04-27T16:52:09Z" duration-ms="32594">
+    <groups>
+    </groups>
+    <test started-at="2023-04-27T16:51:36Z" name="Test" finished-at="2023-04-27T16:52:09Z" duration-ms="32594">
+      <class name="MakeMyTrip.makemytrip_flightbooking.TestngRunner">
+        <test-method is-config="true" signature="browser()[pri:0, instance:MakeMyTrip.makemytrip_flightbooking.TestngRunner@68702e03]" started-at="2023-04-27T16:51:30Z" name="browser" finished-at="2023-04-27T16:51:36Z" duration-ms="5924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method signature="fromTo()[pri:0, instance:MakeMyTrip.makemytrip_flightbooking.TestngRunner@68702e03]" started-at="2023-04-27T16:51:36Z" name="fromTo" finished-at="2023-04-27T16:51:40Z" duration-ms="3240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fromTo -->
+        <test-method signature="departureReturn()[pri:1, instance:MakeMyTrip.makemytrip_flightbooking.TestngRunner@68702e03]" started-at="2023-04-27T16:51:40Z" name="departureReturn" finished-at="2023-04-27T16:51:40Z" duration-ms="341" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- departureReturn -->
+        <test-method signature="traveller()[pri:2, instance:MakeMyTrip.makemytrip_flightbooking.TestngRunner@68702e03]" started-at="2023-04-27T16:51:40Z" name="traveller" finished-at="2023-04-27T16:51:44Z" duration-ms="3548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- traveller -->
+        <test-method signature="search()[pri:3, instance:MakeMyTrip.makemytrip_flightbooking.TestngRunner@68702e03]" started-at="2023-04-27T16:51:44Z" name="search" finished-at="2023-04-27T16:51:51Z" duration-ms="7666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method signature="selectFlightWithMinPrice()[pri:4, instance:MakeMyTrip.makemytrip_flightbooking.TestngRunner@68702e03]" started-at="2023-04-27T16:51:51Z" name="selectFlightWithMinPrice" finished-at="2023-04-27T16:51:57Z" duration-ms="5706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectFlightWithMinPrice -->
+        <test-method signature="travellingDetails()[pri:5, instance:MakeMyTrip.makemytrip_flightbooking.TestngRunner@68702e03]" started-at="2023-04-27T16:51:57Z" name="travellingDetails" finished-at="2023-04-27T16:52:09Z" duration-ms="12032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- travellingDetails -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:MakeMyTrip.makemytrip_flightbooking.TestngRunner@68702e03]" started-at="2023-04-27T16:52:09Z" name="closebrowser" finished-at="2023-04-27T16:52:09Z" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- MakeMyTrip.makemytrip_flightbooking.TestngRunner -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
